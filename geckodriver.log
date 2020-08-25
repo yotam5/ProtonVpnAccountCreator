@@ -1,0 +1,1497 @@
+1596026051112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8kTHUJ"
+1596026053789	Marionette	INFO	Listening on port 35889
+1596026053826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/4780ab7e-ecee-4d8e-837c-96632eecc26d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4780ab7e-ecee-4d8e-837c-96632eecc26d, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/4780ab7e-ecee-4d8e-837c-96632eecc26d, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596026071411	Marionette	INFO	Stopped listening on port 35889
+1596028366246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXPh12A"
+1596028368880	Marionette	INFO	Listening on port 44939
+1596028368981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596028372153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/8d4a6a5b-b5b3-4fda-9ca6-e730786fb9e7, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/8d4a6a5b-b5b3-4fda-9ca6-e730786fb9e7, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/8d4a6a5b-b5b3-4fda-9ca6-e730786fb9e7, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+1596028408201	Marionette	INFO	Stopped listening on port 44939
+1596028410333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqJMf6D"
+1596028413071	Marionette	INFO	Listening on port 43973
+1596028413161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/66e933c0-5a5e-4a4c-a441-7d32ad835517, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/66e933c0-5a5e-4a4c-a441-7d32ad835517, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/66e933c0-5a5e-4a4c-a441-7d32ad835517, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/427f98c2-82a1-4979-b944-c56821c95977, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/427f98c2-82a1-4979-b944-c56821c95977, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://account.protonvpn.com/427f98c2-82a1-4979-b944-c56821c95977, line 0: Successfully compiled asm.js code (total compilation time 46ms)
+1596028423446	Marionette	INFO	Stopped listening on port 43973
+1596028432647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef8stzG"
+1596028435254	Marionette	INFO	Listening on port 45539
+1596028435357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/7886e49a-190b-4059-8032-a4a4baa35212, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/7886e49a-190b-4059-8032-a4a4baa35212, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/7886e49a-190b-4059-8032-a4a4baa35212, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+JavaScript warning: blob:https://account.protonvpn.com/ad55cb9f-eb82-4d69-b4b6-f14e86fe69f6, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/ad55cb9f-eb82-4d69-b4b6-f14e86fe69f6, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/ad55cb9f-eb82-4d69-b4b6-f14e86fe69f6, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+1596028472767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiXm3V2"
+1596028475455	Marionette	INFO	Listening on port 46335
+1596028475476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2c908f3-5275-41ef-b7b5-7a73a8bb1206, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2c908f3-5275-41ef-b7b5-7a73a8bb1206, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2c908f3-5275-41ef-b7b5-7a73a8bb1206, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: blob:https://account.protonvpn.com/fe7b8d21-3e76-4a46-8fa3-af48651dbddf, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/fe7b8d21-3e76-4a46-8fa3-af48651dbddf, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/fe7b8d21-3e76-4a46-8fa3-af48651dbddf, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+1596028480586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596028487066	Marionette	INFO	Stopped listening on port 46335
+1596028511390	Marionette	INFO	Stopped listening on port 45539
+1596028517489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezzldGe"
+1596028520277	Marionette	INFO	Listening on port 43027
+1596028520301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/c708e9c5-d279-4e97-999d-17fd75a4726c, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/c708e9c5-d279-4e97-999d-17fd75a4726c, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/c708e9c5-d279-4e97-999d-17fd75a4726c, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596028530356	Marionette	INFO	Stopped listening on port 43027
+1596028594142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqg6RDU"
+1596028596986	Marionette	INFO	Listening on port 43363
+1596028597066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/60c0b345-298a-45b2-ab5a-fcebb6ba457f, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/60c0b345-298a-45b2-ab5a-fcebb6ba457f, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/60c0b345-298a-45b2-ab5a-fcebb6ba457f, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1596028630624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNVybRu"
+1596028633363	Marionette	INFO	Listening on port 36407
+1596028633448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596028637041	Marionette	INFO	Stopped listening on port 36407
+1596028643836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaS5HA1"
+1596028646390	Marionette	INFO	Listening on port 35539
+1596028646446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/a8587dca-c731-452e-8b16-9aec62778071, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/a8587dca-c731-452e-8b16-9aec62778071, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/a8587dca-c731-452e-8b16-9aec62778071, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596028683126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjpzTI"
+1596028685744	Marionette	INFO	Listening on port 32773
+1596028685866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/d83a2523-97ad-4817-af96-96eda667838d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/d83a2523-97ad-4817-af96-96eda667838d, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/d83a2523-97ad-4817-af96-96eda667838d, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596028695899	Marionette	INFO	Stopped listening on port 32773
+1596028852326	Marionette	INFO	Stopped listening on port 35539
+1596028941616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRY41qM"
+1596028944211	Marionette	INFO	Listening on port 38879
+1596028944242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://account.protonvpn.com/58cbde6e-04c5-4c45-b763-2eeaa68dfa49, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/58cbde6e-04c5-4c45-b763-2eeaa68dfa49, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/58cbde6e-04c5-4c45-b763-2eeaa68dfa49, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596028957617	Marionette	INFO	Stopped listening on port 38879
+1596028962402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9UOti5"
+1596028965191	Marionette	INFO	Listening on port 39277
+1596028965219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596028967937	Marionette	INFO	Stopped listening on port 39277
+1596028975199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegt7imG"
+1596028977946	Marionette	INFO	Listening on port 40259
+1596028978041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/5855dc68-95de-497c-9dc2-b2c2b2af8930, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/5855dc68-95de-497c-9dc2-b2c2b2af8930, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/5855dc68-95de-497c-9dc2-b2c2b2af8930, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596028988647	Marionette	INFO	Stopped listening on port 40259
+1596029079575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYqQKri"
+1596029082343	Marionette	INFO	Listening on port 45385
+1596029082385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596029084541	Marionette	INFO	Stopped listening on port 45385
+1596029099534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehd0jp2"
+1596029102442	Marionette	INFO	Listening on port 36333
+1596029102554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/900ef08a-5ba8-4fe9-a388-328ddb99757f, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/900ef08a-5ba8-4fe9-a388-328ddb99757f, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/900ef08a-5ba8-4fe9-a388-328ddb99757f, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+1596029124707	Marionette	INFO	Stopped listening on port 36333
+1596029223935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNgdth6"
+1596029226704	Marionette	INFO	Listening on port 34645
+1596029226767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/83bce202-fc5d-4e61-a032-58b1494d54a2, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/83bce202-fc5d-4e61-a032-58b1494d54a2, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/83bce202-fc5d-4e61-a032-58b1494d54a2, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596029236816	Marionette	INFO	Stopped listening on port 34645
+1596029249814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTuhIe3"
+1596029252571	Marionette	INFO	Listening on port 35767
+1596029252640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/be89af22-a041-4d4b-a439-e3efd66ca116, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/be89af22-a041-4d4b-a439-e3efd66ca116, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/be89af22-a041-4d4b-a439-e3efd66ca116, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596029261953	Marionette	INFO	Stopped listening on port 35767
+1596029327613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5FXmTO"
+1596029330399	Marionette	INFO	Listening on port 35359
+1596029330428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/a53030c0-ee38-41d8-a551-2ebe63a80336, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/a53030c0-ee38-41d8-a551-2ebe63a80336, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/a53030c0-ee38-41d8-a551-2ebe63a80336, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596029383452	Marionette	INFO	Stopped listening on port 35359
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+1596029485806	Marionette	INFO	Stopped listening on port 43363
+1596029597908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXd2Rar"
+1596029600643	Marionette	INFO	Listening on port 34363
+1596029600716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/2cf8e2a0-38b0-4650-8730-8fbe90abcc4c, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/2cf8e2a0-38b0-4650-8730-8fbe90abcc4c, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/2cf8e2a0-38b0-4650-8730-8fbe90abcc4c, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1596029619819	Marionette	INFO	Stopped listening on port 34363
+1596029758534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeBxcTC"
+1596029761256	Marionette	INFO	Listening on port 33191
+1596029761345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/570f4a31-7bcb-41e6-9c5d-4e70213169d7, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/570f4a31-7bcb-41e6-9c5d-4e70213169d7, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/570f4a31-7bcb-41e6-9c5d-4e70213169d7, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596029785249	Marionette	INFO	Stopped listening on port 33191
+1596029790815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiVqw98"
+1596029793638	Marionette	INFO	Listening on port 45865
+1596029793723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/eb17e78b-565f-4b57-9fef-d6a2418e9be8, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/eb17e78b-565f-4b57-9fef-d6a2418e9be8, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/eb17e78b-565f-4b57-9fef-d6a2418e9be8, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596029809147	Marionette	INFO	Stopped listening on port 45865
+1596030043551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUU5UqK"
+1596030046402	Marionette	INFO	Listening on port 45711
+1596030046487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/109243d4-761d-4924-be97-ef973d565e0b, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/109243d4-761d-4924-be97-ef973d565e0b, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/109243d4-761d-4924-be97-ef973d565e0b, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+1596030058801	Marionette	INFO	Stopped listening on port 45711
+1596030070472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH0Yc87"
+1596030073103	Marionette	INFO	Listening on port 40691
+1596030073194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/3517197d-67fa-462e-9121-ac80189253ec, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/3517197d-67fa-462e-9121-ac80189253ec, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/3517197d-67fa-462e-9121-ac80189253ec, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596030091351	Marionette	INFO	Stopped listening on port 40691
+1596030114505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Qo4uf"
+1596030117035	Marionette	INFO	Listening on port 42083
+1596030117147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/a76c8a49-1623-4e8e-a899-916590f6f411, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/a76c8a49-1623-4e8e-a899-916590f6f411, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/a76c8a49-1623-4e8e-a899-916590f6f411, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596030143147	Marionette	INFO	Stopped listening on port 42083
+1596030237152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemCWVoY"
+1596030239864	Marionette	INFO	Listening on port 43715
+1596030239959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/21fc70bc-48b0-4336-8e0c-dd8725922bca, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/21fc70bc-48b0-4336-8e0c-dd8725922bca, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/21fc70bc-48b0-4336-8e0c-dd8725922bca, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596030262005	Marionette	INFO	Stopped listening on port 43715
+1596030472048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYEoPFc"
+1596030474782	Marionette	INFO	Listening on port 42171
+1596030474856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/78498222-c3d2-49b7-a9c9-1810372aee25, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/78498222-c3d2-49b7-a9c9-1810372aee25, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/78498222-c3d2-49b7-a9c9-1810372aee25, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596030504072	Marionette	INFO	Stopped listening on port 42171
+1596030525669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledqfraB"
+1596030528234	Marionette	INFO	Listening on port 37025
+1596030528278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/6c13838f-1794-4934-875c-c18e035bfa3a, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/6c13838f-1794-4934-875c-c18e035bfa3a, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/6c13838f-1794-4934-875c-c18e035bfa3a, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596030567181	Marionette	INFO	Stopped listening on port 37025
+1596030856555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaOaYco"
+1596030859232	Marionette	INFO	Listening on port 42863
+1596030859268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.203db3ca03.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/b9fde064-d6f5-46f5-8fbe-40a169a9cbe4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/b9fde064-d6f5-46f5-8fbe-40a169a9cbe4, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/b9fde064-d6f5-46f5-8fbe-40a169a9cbe4, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: blob:https://mail.protonmail.com/ecb01216-3a28-4acb-ac22-c22ea1cfb1a4, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: blob:https://mail.protonmail.com/ecb01216-3a28-4acb-ac22-c22ea1cfb1a4, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/ecb01216-3a28-4acb-ac22-c22ea1cfb1a4, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596030875286	Marionette	INFO	Stopped listening on port 42863
+1596030898100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0kz3KT"
+1596030900854	Marionette	INFO	Listening on port 37911
+1596030900910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.203db3ca03.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://mail.protonmail.com/236be529-3a62-4afd-871a-4fe7dc909521, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/236be529-3a62-4afd-871a-4fe7dc909521, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/236be529-3a62-4afd-871a-4fe7dc909521, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: blob:https://mail.protonmail.com/067a3182-fbd5-445d-8221-d4d427f187f3, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: blob:https://mail.protonmail.com/067a3182-fbd5-445d-8221-d4d427f187f3, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/067a3182-fbd5-445d-8221-d4d427f187f3, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596030921281	Marionette	INFO	Stopped listening on port 37911
+1596031195888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefW8HXC"
+1596031198556	Marionette	INFO	Listening on port 43259
+1596031198597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/e159b8e5-1d6b-4266-abf4-97e0131b5376, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/e159b8e5-1d6b-4266-abf4-97e0131b5376, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/e159b8e5-1d6b-4266-abf4-97e0131b5376, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://mail.protonmail.com/9.203db3ca03.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/d40b3bc2-5d43-45e8-9350-afdbf844ec24, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: blob:https://mail.protonmail.com/d40b3bc2-5d43-45e8-9350-afdbf844ec24, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/d40b3bc2-5d43-45e8-9350-afdbf844ec24, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://mail.protonmail.com/9.203db3ca03.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596031232981	Marionette	INFO	Stopped listening on port 43259
+1596031261685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLpadwb"
+1596031264467	Marionette	INFO	Listening on port 37405
+1596031264505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.203db3ca03.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://mail.protonmail.com/16db4f71-03e1-4c95-87e6-3331bd332448, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/16db4f71-03e1-4c95-87e6-3331bd332448, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/16db4f71-03e1-4c95-87e6-3331bd332448, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: blob:https://mail.protonmail.com/53cd0c8a-841e-42f6-9cfe-2ba7ff0fa4f2, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/53cd0c8a-841e-42f6-9cfe-2ba7ff0fa4f2, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/53cd0c8a-841e-42f6-9cfe-2ba7ff0fa4f2, line 0: Successfully compiled asm.js code (total compilation time 78ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596031295452	Marionette	INFO	Stopped listening on port 37405
+1596031486093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexwsUbd"
+1596031488715	Marionette	INFO	Listening on port 34207
+1596031488801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/1215f91f-e2a8-4fe8-8ff6-e8aac273610d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/1215f91f-e2a8-4fe8-8ff6-e8aac273610d, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/1215f91f-e2a8-4fe8-8ff6-e8aac273610d, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596031504154	Marionette	INFO	Stopped listening on port 34207
+1596031545233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqZqJcZ"
+1596031547951	Marionette	INFO	Listening on port 36413
+1596031548055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/57c19b14-09d0-47c4-949b-125b9012631c, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/57c19b14-09d0-47c4-949b-125b9012631c, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/57c19b14-09d0-47c4-949b-125b9012631c, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596031565900	Marionette	INFO	Stopped listening on port 36413
+1596031727331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zuoI7"
+1596031730143	Marionette	INFO	Listening on port 42227
+1596031730247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/d0596c8e-254f-4ea8-b4a1-670c4869dfff, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/d0596c8e-254f-4ea8-b4a1-670c4869dfff, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/d0596c8e-254f-4ea8-b4a1-670c4869dfff, line 0: Successfully compiled asm.js code (total compilation time 27ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596031749385	Marionette	INFO	Stopped listening on port 42227
+1596031800080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjrzmH"
+1596031802803	Marionette	INFO	Listening on port 45985
+1596031802897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/89a2f1b6-5d63-4419-a47b-24e74672c15e, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/89a2f1b6-5d63-4419-a47b-24e74672c15e, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/89a2f1b6-5d63-4419-a47b-24e74672c15e, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596031831259	Marionette	INFO	Stopped listening on port 45985
+1596031856708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9lw5jg"
+1596031859373	Marionette	INFO	Listening on port 43825
+1596031859419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/4c19b0dc-2ad9-489d-aeed-76db04fa2e2b, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/4c19b0dc-2ad9-489d-aeed-76db04fa2e2b, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/4c19b0dc-2ad9-489d-aeed-76db04fa2e2b, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596031879655	Marionette	INFO	Stopped listening on port 43825
+1596031900848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4r6Yv"
+1596031903520	Marionette	INFO	Listening on port 43871
+1596031903559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/270169f0-b41b-49ed-b591-9617e7bbe7f8, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/270169f0-b41b-49ed-b591-9617e7bbe7f8, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/270169f0-b41b-49ed-b591-9617e7bbe7f8, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596031929285	Marionette	INFO	Stopped listening on port 43871
+1596032062127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee8AAYc"
+1596032064502	Marionette	INFO	Listening on port 36167
+1596032064571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/1ee07d6e-76e3-42e5-a185-896d5f461e72, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/1ee07d6e-76e3-42e5-a185-896d5f461e72, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/1ee07d6e-76e3-42e5-a185-896d5f461e72, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596032084998	Marionette	INFO	Stopped listening on port 36167
+1596032119722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebgINxw"
+1596032122530	Marionette	INFO	Listening on port 45233
+1596032122636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/ef00b64b-e45d-4d5a-a07b-5878eda4da68, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/ef00b64b-e45d-4d5a-a07b-5878eda4da68, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/ef00b64b-e45d-4d5a-a07b-5878eda4da68, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596032145958	Marionette	INFO	Stopped listening on port 45233
+1596032216416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerSAe3U"
+1596032219077	Marionette	INFO	Listening on port 43727
+1596032219156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: blob:https://account.protonvpn.com/8f17ffa7-65df-4fab-8c4a-8af67c8bbcd1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/8f17ffa7-65df-4fab-8c4a-8af67c8bbcd1, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/8f17ffa7-65df-4fab-8c4a-8af67c8bbcd1, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596032237411	Marionette	INFO	Stopped listening on port 43727
+1596032340688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWZBuBU"
+1596032343371	Marionette	INFO	Listening on port 43513
+1596032343399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/2b64c202-7ad4-4a2f-916e-1af5b9731122, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/2b64c202-7ad4-4a2f-916e-1af5b9731122, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/2b64c202-7ad4-4a2f-916e-1af5b9731122, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1596032363344	Marionette	INFO	Stopped listening on port 43513
+1596032466452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7o1XCw"
+1596032469219	Marionette	INFO	Listening on port 40353
+1596032469263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/dadf5656-4ca3-44f3-8421-0d8aba6e6688, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/dadf5656-4ca3-44f3-8421-0d8aba6e6688, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/dadf5656-4ca3-44f3-8421-0d8aba6e6688, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596032482577	Marionette	INFO	Stopped listening on port 40353
+1596032834816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez39UKs"
+1596032837408	Marionette	INFO	Listening on port 43835
+1596032837437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://account.protonvpn.com/63d4c033-41b4-4798-97e4-b547e7449e2a, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/63d4c033-41b4-4798-97e4-b547e7449e2a, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/63d4c033-41b4-4798-97e4-b547e7449e2a, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596032853535	Marionette	INFO	Stopped listening on port 43835
+1596032875025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFVu5q9"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+1596033003091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletmQ4Qn"
+1596033005747	Marionette	INFO	Listening on port 38623
+1596033005803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/4deaf1f5-ceb9-4ed3-a9bd-01982ad01af8, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/4deaf1f5-ceb9-4ed3-a9bd-01982ad01af8, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/4deaf1f5-ceb9-4ed3-a9bd-01982ad01af8, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596033023358	Marionette	INFO	Stopped listening on port 38623
+1596033033384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebrXEFW"
+1596033036068	Marionette	INFO	Listening on port 43747
+1596033036101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/a0756364-4d5f-4834-9983-60fe02b173c9, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/a0756364-4d5f-4834-9983-60fe02b173c9, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/a0756364-4d5f-4834-9983-60fe02b173c9, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033048955	Marionette	INFO	Stopped listening on port 43747
+1596033107323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3yy3v7"
+1596033110010	Marionette	INFO	Listening on port 46645
+1596033110032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/abd2e3c1-461a-4cd1-82cb-8e1ae70bf9e5, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/abd2e3c1-461a-4cd1-82cb-8e1ae70bf9e5, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/abd2e3c1-461a-4cd1-82cb-8e1ae70bf9e5, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033125839	Marionette	INFO	Stopped listening on port 46645
+1596033150837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHTE3b"
+1596033153724	Marionette	INFO	Listening on port 42947
+1596033153746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/a9ea2049-5e49-4e30-a6d6-25b9d311954b, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/a9ea2049-5e49-4e30-a6d6-25b9d311954b, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/a9ea2049-5e49-4e30-a6d6-25b9d311954b, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596033167042	Marionette	INFO	Stopped listening on port 42947
+1596033294639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRNmSQA"
+1596033297302	Marionette	INFO	Listening on port 42189
+1596033297349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/c4c7d2b7-015e-40ea-a287-5c2128d4012b, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/c4c7d2b7-015e-40ea-a287-5c2128d4012b, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/c4c7d2b7-015e-40ea-a287-5c2128d4012b, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596033310668	Marionette	INFO	Stopped listening on port 42189
+1596033321931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0j9ooM"
+1596033324650	Marionette	INFO	Listening on port 36659
+1596033324739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/b2841f7e-80bf-4522-809a-b7716fad659c, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/b2841f7e-80bf-4522-809a-b7716fad659c, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/b2841f7e-80bf-4522-809a-b7716fad659c, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033336522	Marionette	INFO	Stopped listening on port 36659
+1596033632123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGQUOSq"
+1596033634854	Marionette	INFO	Listening on port 43509
+1596033634933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/c6f4ca98-97f1-436a-b391-1371bf161b1e, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/c6f4ca98-97f1-436a-b391-1371bf161b1e, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/c6f4ca98-97f1-436a-b391-1371bf161b1e, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596033651418	Marionette	INFO	Stopped listening on port 43509
+1596033720802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWc9SGm"
+1596033723540	Marionette	INFO	Listening on port 39047
+1596033723623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/4309cc45-06d2-4994-9417-f769d48b84f0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4309cc45-06d2-4994-9417-f769d48b84f0, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/4309cc45-06d2-4994-9417-f769d48b84f0, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596033736032	Marionette	INFO	Stopped listening on port 39047
+1596033762320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileru6WNv"
+1596033765024	Marionette	INFO	Listening on port 41469
+1596033765060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/26b7e57f-0d97-4f3a-b1d7-03b26dd89d00, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/26b7e57f-0d97-4f3a-b1d7-03b26dd89d00, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/26b7e57f-0d97-4f3a-b1d7-03b26dd89d00, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033777503	Marionette	INFO	Stopped listening on port 41469
+1596033814236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexhTKhu"
+1596033816913	Marionette	INFO	Listening on port 32857
+1596033816944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/351d6d76-4019-4613-a282-79c25adbc8ee, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/351d6d76-4019-4613-a282-79c25adbc8ee, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/351d6d76-4019-4613-a282-79c25adbc8ee, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033831059	Marionette	INFO	Stopped listening on port 32857
+1596033914983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexPTTP8"
+1596033917687	Marionette	INFO	Listening on port 36829
+1596033917697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/98286086-0602-49d5-bbf9-b8db7e008e34, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/98286086-0602-49d5-bbf9-b8db7e008e34, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/98286086-0602-49d5-bbf9-b8db7e008e34, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033930979	Marionette	INFO	Stopped listening on port 36829
+1596033942250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2eboF"
+1596033944928	Marionette	INFO	Listening on port 45733
+1596033944958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://account.protonvpn.com/4f15b8f8-b070-480f-a0bf-925b845a4d02, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4f15b8f8-b070-480f-a0bf-925b845a4d02, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/4f15b8f8-b070-480f-a0bf-925b845a4d02, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596033963826	Marionette	INFO	Stopped listening on port 45733
+1596033965859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRPS37s"
+1596033968581	Marionette	INFO	Listening on port 37179
+1596033968672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1282b-3dba-4eff-9bfd-a0c15f8f7403, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1282b-3dba-4eff-9bfd-a0c15f8f7403, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1282b-3dba-4eff-9bfd-a0c15f8f7403, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596033983361	Marionette	INFO	Stopped listening on port 37179
+1596034069089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH5CQ2b"
+1596034071795	Marionette	INFO	Listening on port 46379
+1596034071898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/e258c077-a3a4-409c-8ab1-600b35f2ac2e, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/e258c077-a3a4-409c-8ab1-600b35f2ac2e, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/e258c077-a3a4-409c-8ab1-600b35f2ac2e, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596034083830	Marionette	INFO	Stopped listening on port 46379
+1596034334670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJIz7zZ"
+1596034337427	Marionette	INFO	Listening on port 41831
+1596034337482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/942554f4-fd9a-4d89-ab83-d311e05373a6, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/942554f4-fd9a-4d89-ab83-d311e05373a6, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/942554f4-fd9a-4d89-ab83-d311e05373a6, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonvpn.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596034372830	Marionette	INFO	Stopped listening on port 41831
+1596034503843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejD9Hvt"
+1596034506944	Marionette	INFO	Listening on port 45229
+1596034506971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/d97362df-1f68-4b3f-9b79-2b74a9cff701, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/d97362df-1f68-4b3f-9b79-2b74a9cff701, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/d97362df-1f68-4b3f-9b79-2b74a9cff701, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596034517723	Marionette	INFO	Stopped listening on port 45229
+1596034595110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGEJwyi"
+1596034597945	Marionette	INFO	Listening on port 43137
+1596034598018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/6275bbf2-2f9b-413c-990c-8a7c74a0ede6, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/6275bbf2-2f9b-413c-990c-8a7c74a0ede6, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/6275bbf2-2f9b-413c-990c-8a7c74a0ede6, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1596034609678	Marionette	INFO	Stopped listening on port 43137
+1596034675318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHaG4GU"
+1596034678343	Marionette	INFO	Listening on port 37569
+1596034678436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/df7237b8-ef78-4762-a59b-d64a7cc1873e, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/df7237b8-ef78-4762-a59b-d64a7cc1873e, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/df7237b8-ef78-4762-a59b-d64a7cc1873e, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596034699220	Marionette	INFO	Stopped listening on port 37569
+1596034720512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqg0ND8"
+1596034723129	Marionette	INFO	Listening on port 37529
+1596034723234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/ce11562c-5e7c-4ca1-9e27-fbe87edcbc4a, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/ce11562c-5e7c-4ca1-9e27-fbe87edcbc4a, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/ce11562c-5e7c-4ca1-9e27-fbe87edcbc4a, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596034739083	Marionette	INFO	Stopped listening on port 37529
+1596034825350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiysmd5"
+1596034828098	Marionette	INFO	Listening on port 38353
+1596034828159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/f4de9748-745c-4850-8efe-826a2c2d135f, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/f4de9748-745c-4850-8efe-826a2c2d135f, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/f4de9748-745c-4850-8efe-826a2c2d135f, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596034847004	Marionette	INFO	Stopped listening on port 38353
+1596034848352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegxlIVx"
+1596034851209	Marionette	INFO	Listening on port 43873
+1596034851280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/e6707023-828a-4e58-80ba-c19ddd2c973c, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/e6707023-828a-4e58-80ba-c19ddd2c973c, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/e6707023-828a-4e58-80ba-c19ddd2c973c, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596034874068	Marionette	INFO	Stopped listening on port 43873
+1596034875585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg0Ru1W"
+1596034878371	Marionette	INFO	Listening on port 42559
+1596034878396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/dec09336-de58-44ca-8128-044565b68c05, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/dec09336-de58-44ca-8128-044565b68c05, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/dec09336-de58-44ca-8128-044565b68c05, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596034957772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePCGaNO"
+1596034960549	Marionette	INFO	Listening on port 45295
+1596034960581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/b46e4da7-4e2e-478a-84c9-43d709073b19, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/b46e4da7-4e2e-478a-84c9-43d709073b19, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/b46e4da7-4e2e-478a-84c9-43d709073b19, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596034984041	Marionette	INFO	Stopped listening on port 42559
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596034989147	Marionette	INFO	Stopped listening on port 45295
+1596035025133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAWrGPG"
+1596035027924	Marionette	INFO	Listening on port 37063
+1596035027943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/aaf412ea-65e9-4c5d-a4c2-516f4790ed71, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/aaf412ea-65e9-4c5d-a4c2-516f4790ed71, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/aaf412ea-65e9-4c5d-a4c2-516f4790ed71, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596035046355	Marionette	INFO	Stopped listening on port 37063
+1596035071908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Gxh3i"
+1596035074696	Marionette	INFO	Listening on port 36319
+1596035074721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/258f77ec-a69c-467b-b8a6-f8a19a7ea9ae, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/258f77ec-a69c-467b-b8a6-f8a19a7ea9ae, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/258f77ec-a69c-467b-b8a6-f8a19a7ea9ae, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596035117551	Marionette	INFO	Stopped listening on port 36319
+1596035228256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4lztTN"
+1596035231048	Marionette	INFO	Listening on port 39999
+1596035231067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/b4bd404d-3133-4262-95a7-36e35f7f6d4c, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/b4bd404d-3133-4262-95a7-36e35f7f6d4c, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/b4bd404d-3133-4262-95a7-36e35f7f6d4c, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596035242850	Marionette	INFO	Stopped listening on port 39999
+1596035268124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2gjiQs"
+1596035270864	Marionette	INFO	Listening on port 33253
+1596035270950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/ccc1a701-0ba6-4ac0-a8cc-02b8d815385f, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/ccc1a701-0ba6-4ac0-a8cc-02b8d815385f, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/ccc1a701-0ba6-4ac0-a8cc-02b8d815385f, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596035288123	Marionette	INFO	Stopped listening on port 33253
+1596035335336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMW7iig"
+1596035338016	Marionette	INFO	Listening on port 43891
+1596035338055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/75e8416c-e567-4d30-8132-2803e9321d17, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/75e8416c-e567-4d30-8132-2803e9321d17, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/75e8416c-e567-4d30-8132-2803e9321d17, line 0: Successfully compiled asm.js code (total compilation time 43ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596035361190	Marionette	INFO	Stopped listening on port 43891
+1596035425335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletnLt5I"
+1596035428097	Marionette	INFO	Listening on port 39747
+1596035428162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/bf843324-d99e-44b2-bd50-a7c68d513122, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/bf843324-d99e-44b2-bd50-a7c68d513122, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/bf843324-d99e-44b2-bd50-a7c68d513122, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596035447762	Marionette	INFO	Stopped listening on port 39747
+1596035529980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelFjbpO"
+1596035532773	Marionette	INFO	Listening on port 35545
+1596035532788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://account.protonvpn.com/9182be18-1f0e-4e77-ba28-af20cfaf4515, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/9182be18-1f0e-4e77-ba28-af20cfaf4515, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/9182be18-1f0e-4e77-ba28-af20cfaf4515, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596035548528	Marionette	INFO	Stopped listening on port 35545
+1596035567993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3nunGJ"
+1596035570503	Marionette	INFO	Listening on port 39511
+1596035570614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/88374357-f40a-4dbe-8117-4d8e5359fea0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/88374357-f40a-4dbe-8117-4d8e5359fea0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/88374357-f40a-4dbe-8117-4d8e5359fea0, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596035583299	Marionette	INFO	Stopped listening on port 39511
+1596035648800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec5F4kQ"
+1596035651915	Marionette	INFO	Listening on port 35599
+1596035652010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a58966e-66c3-4c51-ae6d-812bdf21591b, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a58966e-66c3-4c51-ae6d-812bdf21591b, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a58966e-66c3-4c51-ae6d-812bdf21591b, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596035905625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledX73ZU"
+1596035908346	Marionette	INFO	Listening on port 44451
+1596035908433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/787fc263-a0ff-498d-abf7-325a7bf61b6e, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/787fc263-a0ff-498d-abf7-325a7bf61b6e, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/787fc263-a0ff-498d-abf7-325a7bf61b6e, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596035951779	Marionette	INFO	Stopped listening on port 44451
+1596035955463	Marionette	INFO	Stopped listening on port 35599
+1596036191265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh9t4qP"
+1596036194010	Marionette	INFO	Listening on port 33467
+1596036194078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/52c93e91-3f68-4665-a9b3-9e5c038b7dbb, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/52c93e91-3f68-4665-a9b3-9e5c038b7dbb, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/52c93e91-3f68-4665-a9b3-9e5c038b7dbb, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596036209779	Marionette	INFO	Stopped listening on port 33467
+1596036217556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRJmOvE"
+1596036220324	Marionette	INFO	Listening on port 38497
+1596036220365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/c5da84e7-1565-4a5f-a98d-c769488ee7e4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/c5da84e7-1565-4a5f-a98d-c769488ee7e4, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/c5da84e7-1565-4a5f-a98d-c769488ee7e4, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596036232080	Marionette	INFO	Stopped listening on port 38497
+1596036397154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJBVY9"
+1596036400019	Marionette	INFO	Listening on port 45805
+1596036400063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://account.protonvpn.com/f85c0704-1d01-4414-af98-60eb5591bdb5, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/f85c0704-1d01-4414-af98-60eb5591bdb5, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/f85c0704-1d01-4414-af98-60eb5591bdb5, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596036430353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIcAvHM"
+1596036433166	Marionette	INFO	Listening on port 37825
+1596036433262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/57b59b4d-050a-43da-953f-89f41fd58edf, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/57b59b4d-050a-43da-953f-89f41fd58edf, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/57b59b4d-050a-43da-953f-89f41fd58edf, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596036879264	Marionette	INFO	Stopped listening on port 37825
+1596037023816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewCbKic"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+1596037040737	Marionette	INFO	Stopped listening on port 45805
+1596037059402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejFEjsS"
+1596037062129	Marionette	INFO	Listening on port 40061
+1596037062226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/c06b0bf1-836a-48c9-b444-196ee4a3e39b, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/c06b0bf1-836a-48c9-b444-196ee4a3e39b, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/c06b0bf1-836a-48c9-b444-196ee4a3e39b, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596037076679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Yzf92"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596037082103	Marionette	INFO	Stopped listening on port 40061
+1596037083684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileClmab6"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+1596037093647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile68gRRI"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+1596037102679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCbEBd"
+1596037105134	Marionette	INFO	Listening on port 45425
+1596037105232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/4524c1b5-6e55-4c8e-bcda-8d63e029bb61, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4524c1b5-6e55-4c8e-bcda-8d63e029bb61, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/4524c1b5-6e55-4c8e-bcda-8d63e029bb61, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596037114719	Marionette	INFO	Stopped listening on port 45425
+1596037395054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJLEw8V"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by yotamsimantov.)
+1596037631150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefKCVmw"
+1596037633868	Marionette	INFO	Listening on port 43469
+1596037633974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/4479f900-fb0d-4605-b26c-5122bc00c931, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4479f900-fb0d-4605-b26c-5122bc00c931, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/4479f900-fb0d-4605-b26c-5122bc00c931, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596037646667	Marionette	INFO	Stopped listening on port 43469
+1596037673284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile677ubN"
+1596037676487	Marionette	INFO	Listening on port 37197
+1596037676497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/92267d09-06c3-4f2e-9f7e-546aa1dad317, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/92267d09-06c3-4f2e-9f7e-546aa1dad317, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/92267d09-06c3-4f2e-9f7e-546aa1dad317, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596037688492	Marionette	INFO	Stopped listening on port 37197
+1596037733255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOrpkZC"
+1596037735957	Marionette	INFO	Listening on port 45477
+1596037735966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://account.protonvpn.com/6fe5cd63-3e6f-4b1c-a79e-5deba0f04da5, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/6fe5cd63-3e6f-4b1c-a79e-5deba0f04da5, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/6fe5cd63-3e6f-4b1c-a79e-5deba0f04da5, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596037751638	Marionette	INFO	Stopped listening on port 45477
+1596037841231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezGs3wq"
+1596037844096	Marionette	INFO	Listening on port 34251
+1596037844139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/209690df-0709-4150-b718-2dca500db8fd, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/209690df-0709-4150-b718-2dca500db8fd, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://account.protonvpn.com/209690df-0709-4150-b718-2dca500db8fd, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596037856338	Marionette	INFO	Stopped listening on port 34251
+1596037883896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVGXTS"
+1596037886747	Marionette	INFO	Listening on port 37449
+1596037886805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2d2133e-6c20-4fb3-8311-d8d0b3be0490, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2d2133e-6c20-4fb3-8311-d8d0b3be0490, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2d2133e-6c20-4fb3-8311-d8d0b3be0490, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1596037895367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuGIy9Y"
+1596037898073	Marionette	INFO	Listening on port 35735
+1596037898188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+1596037901552	Marionette	INFO	Stopped listening on port 37449
+JavaScript warning: blob:https://account.protonvpn.com/7327d6a2-11f4-4ab2-9896-646490ae26a7, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/7327d6a2-11f4-4ab2-9896-646490ae26a7, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/7327d6a2-11f4-4ab2-9896-646490ae26a7, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596037911095	Marionette	INFO	Stopped listening on port 35735
+1596037986428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI75MT1"
+1596037989093	Marionette	INFO	Listening on port 45573
+1596037989138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/3ede7695-3bb6-4cdc-be49-314bad3e90ce, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/3ede7695-3bb6-4cdc-be49-314bad3e90ce, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/3ede7695-3bb6-4cdc-be49-314bad3e90ce, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596038004983	Marionette	INFO	Stopped listening on port 45573
+1596038070979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Yh108"
+1596038073643	Marionette	INFO	Listening on port 45811
+1596038073714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/4b6d1818-68ca-4b9d-ac2b-84e722425ac9, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4b6d1818-68ca-4b9d-ac2b-84e722425ac9, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/4b6d1818-68ca-4b9d-ac2b-84e722425ac9, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596038095096	Marionette	INFO	Stopped listening on port 45811
+1596038292054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilestGZDe"
+1596038294693	Marionette	INFO	Listening on port 33669
+1596038294771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/e63f079d-629e-4986-84d7-6dc8e0bdeffe, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/e63f079d-629e-4986-84d7-6dc8e0bdeffe, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/e63f079d-629e-4986-84d7-6dc8e0bdeffe, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596038306294	Marionette	INFO	Stopped listening on port 33669
+1596038319965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemwjdpL"
+1596038322762	Marionette	INFO	Listening on port 46303
+1596038322779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: blob:https://account.protonvpn.com/eab80717-9f69-4809-8007-1f3680e9e496, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/eab80717-9f69-4809-8007-1f3680e9e496, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/eab80717-9f69-4809-8007-1f3680e9e496, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596038336857	Marionette	INFO	Stopped listening on port 46303
+1596038346164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1L8ya3"
+1596038348944	Marionette	INFO	Listening on port 43327
+1596038348972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/17dc9d7d-79bd-4d96-8230-28b6b59d256d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/17dc9d7d-79bd-4d96-8230-28b6b59d256d, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/17dc9d7d-79bd-4d96-8230-28b6b59d256d, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1596038414836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3dH05"
+1596038417617	Marionette	INFO	Listening on port 44671
+1596038417645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/b85723c6-0d49-4775-bcf0-3cec5e5a3a52, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/b85723c6-0d49-4775-bcf0-3cec5e5a3a52, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/b85723c6-0d49-4775-bcf0-3cec5e5a3a52, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596038436689	Marionette	INFO	Stopped listening on port 43327
+1596038447002	Marionette	INFO	Stopped listening on port 44671
+1596038494656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenfDPw5"
+1596038497278	Marionette	INFO	Listening on port 43233
+1596038497373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/59f0d27a-7ef3-4a40-b306-d67225bbc6bc, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/59f0d27a-7ef3-4a40-b306-d67225bbc6bc, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/59f0d27a-7ef3-4a40-b306-d67225bbc6bc, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596038510066	Marionette	INFO	Stopped listening on port 43233
+1596038588576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiKQ19S"
+1596038591216	Marionette	INFO	Listening on port 39307
+1596038591309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a0849af-7896-4097-9fbf-4604be02fd2e, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a0849af-7896-4097-9fbf-4604be02fd2e, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/5a0849af-7896-4097-9fbf-4604be02fd2e, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596038603472	Marionette	INFO	Stopped listening on port 39307
+1596038649252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAqU8Rk"
+1596038652065	Marionette	INFO	Listening on port 46079
+1596038652161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/032d1a3d-6482-45b4-b38b-efd3e03a423c, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/032d1a3d-6482-45b4-b38b-efd3e03a423c, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/032d1a3d-6482-45b4-b38b-efd3e03a423c, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1596038669324	Marionette	INFO	Stopped listening on port 46079
+1596039351556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexKF05N"
+1596039354139	Marionette	INFO	Listening on port 34701
+1596039354163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/dee6772e-20e1-4d75-a36e-75431e28891d, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/dee6772e-20e1-4d75-a36e-75431e28891d, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/dee6772e-20e1-4d75-a36e-75431e28891d, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596039468684	Marionette	INFO	Stopped listening on port 34701
+1596039600448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS3FGYF"
+1596039603249	Marionette	INFO	Listening on port 44949
+1596039603259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/52e335d5-d034-4eba-8823-9469dd313c2d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/52e335d5-d034-4eba-8823-9469dd313c2d, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/52e335d5-d034-4eba-8823-9469dd313c2d, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596039616241	Marionette	INFO	Stopped listening on port 44949
+1596039627804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekyZEnv"
+1596039630276	Marionette	INFO	Listening on port 36803
+1596039630333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/88a0586e-c78e-4d26-8e30-b09a5ff3572f, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/88a0586e-c78e-4d26-8e30-b09a5ff3572f, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/88a0586e-c78e-4d26-8e30-b09a5ff3572f, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596039672256	Marionette	INFO	Stopped listening on port 36803
+1596039902223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledA3Xun"
+1596039904916	Marionette	INFO	Listening on port 38271
+1596039904937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/363540b5-3ed1-4a9e-8367-6ba22ace3f34, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/363540b5-3ed1-4a9e-8367-6ba22ace3f34, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/363540b5-3ed1-4a9e-8367-6ba22ace3f34, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2673904-c54c-4ef9-bd3e-f93baec480ad, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2673904-c54c-4ef9-bd3e-f93baec480ad, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/c2673904-c54c-4ef9-bd3e-f93baec480ad, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+1596039920329	Marionette	INFO	Stopped listening on port 38271
+1596040038861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile89yAz4"
+1596040041535	Marionette	INFO	Listening on port 33951
+1596040041574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/caedf6dd-8283-4ebd-83e1-01371ffbf77a, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/caedf6dd-8283-4ebd-83e1-01371ffbf77a, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/caedf6dd-8283-4ebd-83e1-01371ffbf77a, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1596040118498	Marionette	INFO	Stopped listening on port 33951
+1596040120446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewFWHCP"
+1596040123253	Marionette	INFO	Listening on port 36329
+1596040123366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/b424aa58-898c-4d05-b2e4-16ff2023a989, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/b424aa58-898c-4d05-b2e4-16ff2023a989, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/b424aa58-898c-4d05-b2e4-16ff2023a989, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040159420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFQ5Idd"
+1596040162205	Marionette	INFO	Listening on port 46671
+1596040162234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/ed630709-a798-4708-8e8d-35058285c6ee, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/ed630709-a798-4708-8e8d-35058285c6ee, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/ed630709-a798-4708-8e8d-35058285c6ee, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1596040249319	Marionette	INFO	Stopped listening on port 46671
+1596040251434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebhJI9E"
+1596040254099	Marionette	INFO	Listening on port 40865
+1596040254159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/76e7ac13-7061-4b17-aac4-113d07713340, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/76e7ac13-7061-4b17-aac4-113d07713340, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/76e7ac13-7061-4b17-aac4-113d07713340, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1596040339019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLffi1"
+1596040341686	Marionette	INFO	Listening on port 40505
+1596040341728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/f1b06378-9a9b-4a79-b634-d23357385740, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/f1b06378-9a9b-4a79-b634-d23357385740, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://account.protonvpn.com/f1b06378-9a9b-4a79-b634-d23357385740, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040392317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea8ZHSr"
+1596040393120	Marionette	INFO	Stopped listening on port 40505
+1596040395091	Marionette	INFO	Listening on port 42299
+1596040395136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/6178db16-fea7-4246-976a-0c0223bd6bc8, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/6178db16-fea7-4246-976a-0c0223bd6bc8, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/6178db16-fea7-4246-976a-0c0223bd6bc8, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040421324	Marionette	INFO	Stopped listening on port 42299
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596040422915	Marionette	INFO	Stopped listening on port 36329
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596040428269	Marionette	INFO	Stopped listening on port 40865
+1596040497665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHwihC"
+1596040500574	Marionette	INFO	Listening on port 36083
+1596040500676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://account.protonvpn.com/8ee30067-aa40-441b-be10-d9148cd70c7d, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/8ee30067-aa40-441b-be10-d9148cd70c7d, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/8ee30067-aa40-441b-be10-d9148cd70c7d, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040522871	Marionette	INFO	Stopped listening on port 36083
+1596040552365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGSjPjV"
+1596040555174	Marionette	INFO	Listening on port 38677
+1596040555282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/4241b1ac-1521-476a-a505-2ded0898ae68, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/4241b1ac-1521-476a-a505-2ded0898ae68, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/4241b1ac-1521-476a-a505-2ded0898ae68, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040599361	Marionette	INFO	Stopped listening on port 38677
+1596040663739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehsbg7Y"
+1596040666572	Marionette	INFO	Listening on port 46397
+1596040666650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/57e0c16d-2295-4e26-a262-d1208fd85b16, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/57e0c16d-2295-4e26-a262-d1208fd85b16, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/57e0c16d-2295-4e26-a262-d1208fd85b16, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596040687521	Marionette	INFO	Stopped listening on port 46397
+1596040699271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWNpwzE"
+1596040702033	Marionette	INFO	Listening on port 45335
+1596040702080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/1dd90735-0337-4c73-83ff-ab3a5c5e03a5, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/1dd90735-0337-4c73-83ff-ab3a5c5e03a5, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/1dd90735-0337-4c73-83ff-ab3a5c5e03a5, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1596040781216	Marionette	INFO	Stopped listening on port 45335
+1596040836297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBoKp0E"
+1596040838989	Marionette	INFO	Listening on port 35701
+1596040839018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://account.protonvpn.com/65fbf9ce-662b-4dec-8874-48c6fa8f1173, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/65fbf9ce-662b-4dec-8874-48c6fa8f1173, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/65fbf9ce-662b-4dec-8874-48c6fa8f1173, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1596040846655	Marionette	INFO	Stopped listening on port 35701
+1596040850328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJz3xkb"
+1596040853055	Marionette	INFO	Listening on port 44929
+1596040853149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/d20a7934-ac12-4dd9-8190-7539441d93d4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/d20a7934-ac12-4dd9-8190-7539441d93d4, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/d20a7934-ac12-4dd9-8190-7539441d93d4, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596041030175	Marionette	INFO	Stopped listening on port 44929
+1596041989405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelxzMKU"
+1596041992168	Marionette	INFO	Listening on port 41655
+1596041992214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1f309-998b-437c-b882-dd92d8697ea4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1f309-998b-437c-b882-dd92d8697ea4, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://account.protonvpn.com/48d1f309-998b-437c-b882-dd92d8697ea4, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1596042039888	Marionette	INFO	Stopped listening on port 41655
+1596042238721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHroC5"
+1596042241387	Marionette	INFO	Listening on port 35607
+1596042241429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: blob:https://account.protonvpn.com/5d9b0d5e-6db7-4288-acdf-73c736b23959, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/5d9b0d5e-6db7-4288-acdf-73c736b23959, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/5d9b0d5e-6db7-4288-acdf-73c736b23959, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1596042323849	Marionette	INFO	Stopped listening on port 35607
+1596042326289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejhNmeQ"
+1596042328887	Marionette	INFO	Listening on port 34423
+1596042328899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/4ea06929-cfb6-4785-b481-e14699fee652, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/4ea06929-cfb6-4785-b481-e14699fee652, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/4ea06929-cfb6-4785-b481-e14699fee652, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+1596042401648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3CcupR"
+1596042404381	Marionette	INFO	Listening on port 40231
+1596042404465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://account.protonvpn.com/1184f99d-8672-4f3c-b89a-5b9f32e0a7df, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/1184f99d-8672-4f3c-b89a-5b9f32e0a7df, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/1184f99d-8672-4f3c-b89a-5b9f32e0a7df, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1596042595070	Marionette	INFO	Stopped listening on port 34423
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.protonvpn.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 923))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:923:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1613:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1522: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+JavaScript warning: blob:https://account.protonvpn.com/ccc7a462-8477-4f8e-a427-fb6ea25cb61f, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/ccc7a462-8477-4f8e-a427-fb6ea25cb61f, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://account.protonvpn.com/ccc7a462-8477-4f8e-a427-fb6ea25cb61f, line 0: Successfully compiled asm.js code (total compilation time 52ms)
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2725e5c-9201-47cf-9c86-cabfd67e4750, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2725e5c-9201-47cf-9c86-cabfd67e4750, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/a2725e5c-9201-47cf-9c86-cabfd67e4750, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+1596043706596	Marionette	INFO	Stopped listening on port 40231
+1596043754114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD2Z02S"
+1596043756871	Marionette	INFO	Listening on port 34827
+1596043756939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://account.protonvpn.com/d431ebce-dc79-4e03-b61c-2ca9d8bccc91, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/d431ebce-dc79-4e03-b61c-2ca9d8bccc91, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/d431ebce-dc79-4e03-b61c-2ca9d8bccc91, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596043888317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbIM0W"
+1596043891035	Marionette	INFO	Listening on port 45819
+1596043891147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/40a8bffb-5d95-40bd-a514-e916fd1ca562, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/40a8bffb-5d95-40bd-a514-e916fd1ca562, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/40a8bffb-5d95-40bd-a514-e916fd1ca562, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: blob:https://account.protonvpn.com/13116f00-48f2-41b1-bd03-4d89f15e97ab, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: blob:https://account.protonvpn.com/13116f00-48f2-41b1-bd03-4d89f15e97ab, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://account.protonvpn.com/13116f00-48f2-41b1-bd03-4d89f15e97ab, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript error: https://protonvpn.com/assets/js/download.js?rel=1595938401657, line 1: TypeError: $(...).attr(...).removeClass(...).removeAttribute is not a function
+JavaScript warning: https://account.protonvpn.com/vendors~index.eb6ae9b0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://account.protonvpn.com/cda980bc-7de0-48e0-859d-f3e1a3bccf69, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/cda980bc-7de0-48e0-859d-f3e1a3bccf69, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://account.protonvpn.com/cda980bc-7de0-48e0-859d-f3e1a3bccf69, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1596044204681	Marionette	INFO	Stopped listening on port 45819
+1597558618376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5a61Mm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597558621130	Marionette	INFO	Listening on port 40883
+1597558621186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://account.protonvpn.com/6ff12dda-ac68-4203-8faf-d780d86b4a2e, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/6ff12dda-ac68-4203-8faf-d780d86b4a2e, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://account.protonvpn.com/6ff12dda-ac68-4203-8faf-d780d86b4a2e, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+1597558647096	Marionette	INFO	Stopped listening on port 40883
+1597558683477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelRCPWU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597558686226	Marionette	INFO	Listening on port 41159
+1597558686294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/29e073d1-25b7-4e3e-8fbf-37ee9135eb31, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://account.protonvpn.com/29e073d1-25b7-4e3e-8fbf-37ee9135eb31, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/29e073d1-25b7-4e3e-8fbf-37ee9135eb31, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.protonmail.com"
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+1597558724518	Marionette	INFO	Stopped listening on port 41159
+1597558745073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ZooYL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597558747855	Marionette	INFO	Listening on port 40539
+1597558747882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://account.protonvpn.com/d23576cf-4b94-4e18-8ec9-53c1437532b9, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://account.protonvpn.com/d23576cf-4b94-4e18-8ec9-53c1437532b9, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://account.protonvpn.com/d23576cf-4b94-4e18-8ec9-53c1437532b9, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1597558777647	Marionette	INFO	Stopped listening on port 40539
+1597558836395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenpRy8C"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597558839194	Marionette	INFO	Listening on port 41955
+1597558839211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.protonvpn.com/vendors~index.55e50738.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://account.protonvpn.com/6011d6e5-6ee1-454c-b651-e990470aa795, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://account.protonvpn.com/6011d6e5-6ee1-454c-b651-e990470aa795, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://account.protonvpn.com/6011d6e5-6ee1-454c-b651-e990470aa795, line 0: Successfully compiled asm.js code (total compilation time 30ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://account.protonvpn.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1597558858726	Marionette	INFO	Stopped listening on port 41955
