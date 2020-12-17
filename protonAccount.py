@@ -125,18 +125,7 @@ saveData.write(f'User Name:{finalUserName} Password:{password}')
 saveData.close()
 print(mail, password, finalUserName)
 print('Saving to file....')
+time.sleep(3)
+browser.find_element_by_xpath("/html/body/div[3]/dialog/div/footer/div/div/button[2]").click()
 
-browser.find_element_by_xpath(
-    '/html/body/div/div[2]/div/div/div[2]/main/div/section[4]/div[2]/div[2]/button'
-).click()
-userforlinux = pyperclip.paste()
-browser.find_element_by_xpath(
-    "/html/body/div/div[2]/div/div/div[2]/main/div/section[4]/div[3]/div[2]/button[1]/span/svg"
-).click()
-passforlinux = pyperclip.paste()
-time.sleep(1)
-browser.find_element_by_xpath('')
-fileSave = open(f'{finalUserName}.txt', 'w')
-fileSave.write(f"""Username:{finalUserName} Password:{password}\n
-            userterminal:{userforlinux} passterminal:{passforlinux}""")
-print('finished')
+print("created, else you need to press manually on resent to verify")
