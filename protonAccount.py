@@ -4,6 +4,8 @@ import string, random
 import pyperclip
 import time 
 
+LENGTH_PASS = 12
+
 """from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By"""
@@ -16,7 +18,7 @@ def randomStringGenerator(length=13):
     return ''.join(random.choice(string.ascii_letters) for _ in range(length))
 
 
-password = 'PassPass321123'
+password = randomStringGenerator(LENGTH_PASS)
 initialUserName = 'TheGreatEncryption'
 randomStr = randomStringGenerator(13)
 finalUserName = initialUserName + randomStr
